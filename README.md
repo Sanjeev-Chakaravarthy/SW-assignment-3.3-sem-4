@@ -103,3 +103,4 @@ To remedy the case study above (as perfectly demonstrated in our submitted `lib/
 
 ---
 *End of Submission File*
+\n\n# Submission Notes\nThis branch contains the final optimized version of the Flutter assignment for Concept 3.3.
